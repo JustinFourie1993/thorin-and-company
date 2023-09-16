@@ -2,3 +2,8 @@
     width: 100%;
 }
 
+.flashes{
+    border: 1px solid black;
+    background-color: lightgray;
+}
+
